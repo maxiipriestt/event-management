@@ -1,0 +1,13 @@
+$ mkdir ~/event-management
+# creates a directory for my projects on my User directory called event-management
+
+$ cd ~/event-management
+# change my current working directory to my newly created directory
+
+$ git init
+# sets up the initialized Git files
+Initialized empty Git repository in /Users/moses/event-management/.git/
+
+$ touch README
+# creates a file called "README" in my event-management directory
+
